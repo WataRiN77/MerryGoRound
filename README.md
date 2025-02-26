@@ -1,7 +1,6 @@
-# Project file for Entertainment Design StudioII
-
-## CodeName: Merry-Go-Round
+# Project file for Entertainment Design Studio II
+CodeName: Merry-Go-Round
 
 ## By:
-### WataRiN
-### YYY U 
+WataRiN
+YYY U 
